@@ -30,21 +30,13 @@ Project Structure
 quiz_project/
 
 │
-
 ├── quizapp/
-
 │   ├── __init__.py
-
 │   ├── questions.py
-
 │   ├── evaluate.py
-
 │   └── score.py
-
 │
-
 ├── demo_outside.py
-
 └── setup.py
 
 How to Run the Project
