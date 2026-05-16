@@ -46,15 +46,16 @@ quiz_project/
 
 └── setup.py
 
-How to Run the Project
+   How to Run the Project
 
-1. Clone the repository
+ Clone the repository
 
 git clone https://github.com/your-username/quizapp.git
 
 cd quizapp
 
-2.Run the application
+
+Run the application
 
 python demo_outside.py
 
