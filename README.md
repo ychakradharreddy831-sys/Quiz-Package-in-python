@@ -93,17 +93,21 @@ questions.py
 
 Stores all quiz questions and displays them.
 
+
 evaluate.py
 
 Checks user answers against correct answers.
+
 
 score.py
 
 Calculates score and displays final result.
 
+
 demo_outside.py
 
 Main file that runs the quiz application.
+
 
 
 Requirements
@@ -125,6 +129,9 @@ Database integration for storing scores
 Random question shuffle 
 
 User login system
+
+
+
 
 
 Author
