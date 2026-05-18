@@ -50,7 +50,6 @@ quiz_project/
 
  Clone the repository
 
-git clone https://github.com/your-username/quizapp.git
 
 cd quizapp
 
