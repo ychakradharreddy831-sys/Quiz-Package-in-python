@@ -46,7 +46,7 @@ quiz_project/
 
 └── setup.py
 
-   How to Run the Project
+  -> How to Run the Project
 
  Clone the repository
 
