@@ -8,7 +8,7 @@ A simple Python-based Quiz Application that runs in the console.
 It asks multiple-choice questions, evaluates user answers, and displays the final score with pass/fail status.
 
 
-Features
+-> Features
 
 Multiple-choice questions (MCQ format)
 
@@ -25,7 +25,7 @@ Pass / Fail status
 Modular Python package structure
 
 
-Project Structure
+ -> Project Structure
 
 quiz_project/
 
@@ -59,7 +59,7 @@ Run the application
 python demo_outside.py
 
 
-How It Works
+-> How It Works
 
 1.The program displays quiz questions
 
@@ -72,7 +72,7 @@ How It Works
 5.Final result is shown with percentage
 
 
-Example Output
+->Example Output
 
 
 <img width="630" height="798" alt="Screenshot 2026-05-17 011614" src="https://github.com/user-attachments/assets/2d2780fd-2b35-4189-a75b-eb7f271a68f4" />
@@ -86,7 +86,7 @@ Example Output
 
 
 
-Modules Explained
+-> Modules Explained
 
 questions.py
 
@@ -109,7 +109,7 @@ Main file that runs the quiz application.
 
 
 
-Requirements
+->Requirements
 
 Python 3.7+
 
@@ -117,7 +117,7 @@ No external libraries required.
 
 
 
-Future Improvements
+->Future Improvements
 
 Add timer for each question 
 
