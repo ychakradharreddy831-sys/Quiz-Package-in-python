@@ -35,13 +35,21 @@ Easy to extend and customize
 ---->quiz_project/
 
 │
+
 ├── quizapp/
+
 │   ├── __init__.py
+
 │   ├── questions.py
+
 │   ├── evaluate.py
+
 │   └── score.py
+
 │
+
 ├── demo_outside.py
+
 └── setup.py
 
 ---->Module Description
