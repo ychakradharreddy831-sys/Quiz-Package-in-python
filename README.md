@@ -238,7 +238,7 @@ Understanding package creation
 
 
 
- <img width="630" height="798" alt="Screenshot 2026-05-17 011614" src="https://github.com/user-attachments/assets/a5423d3e-d3fb-420f-bcaa-840688fa2e15" />
+ <img width="838" height="63" alt="Screenshot 2026-05-19 140024" src="https://github.com/user-attachments/assets/b4f7ed15-4478-48b1-b457-f303aa2d97e5" />
 
 
 
