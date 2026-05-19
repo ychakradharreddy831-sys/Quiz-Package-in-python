@@ -232,6 +232,15 @@ Learning modular programming
 
 Understanding package creation
 
+----> The version of pip is 
+
+ 26.1.1
+
+
+
+ <img width="630" height="798" alt="Screenshot 2026-05-17 011614" src="https://github.com/user-attachments/assets/a5423d3e-d3fb-420f-bcaa-840688fa2e15" />
+
+
 
 
 ->Example Output
